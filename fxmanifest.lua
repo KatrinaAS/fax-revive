@@ -16,4 +16,7 @@ author 'FAXES/Astra'
 description 'read the readme.md'
 
 client_script 'client.lua'
-server_script 'server.lua'
+
+
+resource_type 'map' { gameTypes = { ['basic-gamemode'] = true } }
+map 'map.lua'

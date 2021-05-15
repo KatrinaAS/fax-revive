@@ -1,0 +1,15 @@
+spawnpoint 'a_m_y_hipster_01' { x = 373.924, y = 792.803, z = 186.942, heading = 205.8}
+spawnpoint 'a_m_y_hipster_01' { x = 622.22, y = 21.21, z = 88.25,0, heading = 205.8}
+spawnpoint 'a_m_y_hipster_01' { x = 820.8, y = -1288.63, z = 27.1,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = 430.49, y = -981.55, z = 30.71,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = 375.94, y = -1612.47, z = 29.29,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = -558.06, y = -141.45, z = 38.42,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = -1092.91, y = -807.41, z = 19.28,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = -439.74, y = 6020.66, z = 31.49,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = 1855.67, y = 3680.45, z = 32.21,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = 2508.85, y = -385.35, z = 94.12,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = 360.89, y =  -585.22, z = 28.83,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = 294.68, y = -1447.17, z = 29.97,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = -498.41, y = -334.99, z = 34.5,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = -1035.11, y = -2734.43, z = 13.76,0, heading = 205.9}
+spawnpoint 'a_m_y_hipster_01' { x = -244.28, y = 6329.45, z = 32.43,0, heading = 205.9}
