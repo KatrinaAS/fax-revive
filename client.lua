@@ -60,9 +60,9 @@ Citizen.CreateThread(function()
 	local playerIndex = NetworkGetPlayerIndex(-1) or 0
 	math.randomseed(playerIndex)
 
-	function createSpawnPoint(x1, x2, y1, y2, z, heading)
-		local xValue = math.random(x1,x2) + 0.0001
-		local yValue = math.random(y1,y2) + 0.0001
+	function createSpawnPoint(x1, y2, z, heading)
+		local xValue = x1
+		local yValue = y1
 
 		local newObject = {
 			x = xValue,
@@ -73,11 +73,22 @@ Citizen.CreateThread(function()
 		table.insert(spawnPoints,newObject)
 	end
 
-	createSpawnPoint(-448, -448, -340, -329, 35.5, 0) -- Mount Zonah
-	createSpawnPoint(372, 375, -596, -594, 30.0, 0)   -- Pillbox Hill
-	createSpawnPoint(335, 340, -1400, -1390, 34.0, 0) -- Central Los Santos
-	createSpawnPoint(1850, 1854, 3700, 3704, 35.0, 0) -- Sandy Shores
-	createSpawnPoint(-247, -245, 6328, 6332, 33.5, 0) -- Paleto
+	createSpawnPoint(373.924,792.803,186.942
+	createSpawnPoint(622.22, 21.21, 88.25)
+	createSpawnPoint(820.8, -1288.63, 27.1)
+	createSpawnPoint(430.49, -981.55, 30.71)
+	createSpawnPoint(375.94, -1612.47, 29.29)
+	createSpawnPoint(-558.06, -141.45, 38.42)
+	createSpawnPoint(-1092.91, -807.41, 19.28)
+	createSpawnPoint(-439.74, 6020.66, 31.49)
+	createSpawnPoint(1855.67, 3680.45, 32.21)
+	createSpawnPoint(2508.85, -385.35, 94.12)
+	createSpawnPoint(360.89,  -585.22, 28.83)
+	createSpawnPoint(294.68, -1447.17, 29.97)
+	createSpawnPoint(-498.41, -334.99, 34.5)
+	createSpawnPoint(-1035.11, -2734.43, 13.76)
+	createSpawnPoint(-244.28, 6329.45, 32.43)
+		
 
 
     while true do
